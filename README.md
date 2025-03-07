@@ -36,3 +36,7 @@
 
 ---
 NOu canvi per prova de bloqueig
+
+# Canvi com a propietari
+Nom: Alvaro Gomez
+Rol: Propietari
