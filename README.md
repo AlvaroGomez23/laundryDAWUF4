@@ -36,3 +36,5 @@
 
 ---
 NOu canvi per prova de bloqueig
+
+Jose Gomez (Colaborador)
